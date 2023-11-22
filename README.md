@@ -1,5 +1,5 @@
 ### Welcome! 👽
-<img align="right" width="200" src="https://github.com/danba340/svg-animation-readme-example/blob/master/animatedkitty.svg" />
+<img align="right" width="200" src="![giovanna-paz-black-cat-4](https://github.com/leviathanbasket/leviathanbasket/assets/148531582/ee01ce96-dcf7-4edb-a448-e3679ac44ee9)" />
 
 My name is Farid Taei, i'm 20 years old and am a passionate software developer!
 
