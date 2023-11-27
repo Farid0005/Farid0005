@@ -15,4 +15,4 @@ Have worked with: <br><br>
 <img align="left" alt="GIT" width="35px" height="35px" src="https://github.com/leviathanbasket/leviathanbasket/assets/148531582/ca3e65a4-3b1f-4d2e-96e2-86c790c8650d" />
 <img align="left" alt="MySQL" width="35px" height="35px" src="https://github.com/leviathanbasket/leviathanbasket/assets/148531582/7f5bd13c-7747-46d5-9a69-423e1310fa1b" /> 
 <img align="left" alt="MySQL" width="35px" height="35px" src="https://github.com/leviathanbasket/leviathanbasket/assets/148531582/d21a83e4-31ed-4682-ab63-4fe3872028dd" /> 
-<br><br><br> Down here you can see the projects i have worked :) 
+<br><br> Down here you can see the projects i have worked :) 
