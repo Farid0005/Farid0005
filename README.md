@@ -3,7 +3,7 @@
 
 My name is Farid Taei, i'm 20 years old and am a passionate software developer!<br><br>
 
-Have worked with: <br><br>
+Have worked with: <br>
 <img align="left" alt="HTML" width="35px" height="35px" src="https://github.com/leviathanbasket/leviathanbasket/assets/148531582/c104f037-dc7a-4985-bae0-a965dc3b434b" />
 <img align="left" alt="CSS" width="35px" height="35px" src="https://github.com/leviathanbasket/leviathanbasket/assets/148531582/f0139ec9-4131-4bfc-9a81-879c1d32fab7" />
 <img align="left" alt="JavaScript" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
