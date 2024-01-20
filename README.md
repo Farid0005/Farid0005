@@ -6,10 +6,8 @@
 
 ### <p align="center">[>::<]</p>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=fishscaley&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishscaley&layout=compact&langs_count=8&theme=shadow_green"/></td>
-  </tr>
-</table>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fishscaley&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishscaley&layout=compact&langs_count=8&theme=shadow_green"/>
+</div>
 
