@@ -5,7 +5,7 @@
 <p align="center">If you want to contact me for whatever reason, my discord is: @fishscaley  </p>
 <p align="left">
 <a align="center" href="https://github.com/fishscaley">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=fishscaley&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishscaley&layout=compact&langs_count=8&theme=neon"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=fishscaley&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishscaley&layout=compact&langs_count=8&theme=shadow_green"/>
 </a>
 </p>
