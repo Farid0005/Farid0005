@@ -1,1 +1,1 @@
-<p align="center"><img width="240" src="![n100672-K18YaAil9oor](https://github.com/fishscaley/fishscaley/assets/148531582/66e50142-4063-4365-ab54-03233371d57d)" /></p>
+<p align="center"><img width="240" src="https://78.media.tumblr.com/d370c9a207ba32dfebb8ee2963c59c0d/tumblr_p5wsa4UOHp1x7088uo1_100.gif" /></p>
