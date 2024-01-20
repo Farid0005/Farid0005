@@ -6,10 +6,8 @@
 
 ### <p align="center">[>::<]</p>
 
-<p display: flex; flex-direction: row;>
-<a display: flex; flex-direction: row; href="https://github.com/fishscaley">
+<div display: flex; flex-direction: row;>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fishscaley&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishscaley&layout=compact&langs_count=8&theme=shadow_green"/>
-</a>
-</p>
+</div>
 
