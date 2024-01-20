@@ -3,11 +3,13 @@
 <p align="center">Currently learning C</p>
 <p align="center">I use arch btw :P and getting used to neovim</p>
 <p align="center">If you want to contact me for whatever reason, my discord is: @fishscaley  </p>
+
+### <p align="center">[>::<]</p>
+
 <p align="left">
 <a align="center" href="https://github.com/fishscaley">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=fishscaley&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishscaley&layout=compact&langs_count=8&theme=shadow_green"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=fishscaley&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishscaley&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </a>
 </p>
 
-### <p align="center">[>::<]</p>
