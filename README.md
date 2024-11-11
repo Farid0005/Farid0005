@@ -5,6 +5,6 @@
 ### <p align="center">[>::<]</p>
 
 <div>
-  <img <center> height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishscaley&layout=compact&langs_count=8&theme=merko" </div>center>/>
+  <img <center> height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishscaley&layout=compact&langs_count=8&theme=merko" </center>/>
 </div>
 
