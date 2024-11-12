@@ -4,7 +4,7 @@
 
 ### <p align="center">[>::<]</p>
 
-<div style="text-align: center;">
+<div align="center">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=misogikun&theme=cobalt&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
