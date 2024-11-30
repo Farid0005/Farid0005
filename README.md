@@ -23,3 +23,8 @@
 
 -----
 
+<div align="center">
+  <p><b>Contact:</b></p>
+  <a href="https://discordapp.com/users/682002954739646526">Discord</a>
+</div>
+
