@@ -1,6 +1,7 @@
 <p align="center"><img width="720" src="https://github.com/user-attachments/assets/8c6c9376-a5ce-48de-8910-d9809a297ed1" /></p>
 
-<p align="center">Hai! I am a passionate and curious software developer who explores everything he is interested in!</p>
+<p align="center">Hai! I am a passionate and curious software developer who explores everything he is interested in!</p><br>
+<p align="center">I really enjoy working with linux, after dealing with windows for years, linux was a refreshment and a way to gain more freedom over my OS and learn more about how computers work under the hood.</p>
 
 ### <p align="center">[>::<]</p>
 
