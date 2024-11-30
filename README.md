@@ -1,9 +1,10 @@
 <p align="center"><img width="720" src="https://github.com/user-attachments/assets/8c6c9376-a5ce-48de-8910-d9809a297ed1" /></p>
 
 <p align="center">Hai! I am a passionate software developer that aims to learn as much as possible!</p>
-<p align="center">discord: @misogikun</p>
 
 ### <p align="center">[>::<]</p>
+
+-----
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/8009157b-be7c-41ee-9c92-d7929fefdde1" width="64px">
@@ -20,4 +21,6 @@
   <img src="https://github.com/user-attachments/assets/d514da70-5b66-4254-8ec4-3a6b01549675" width="64px">
   <img src="https://github.com/user-attachments/assets/eb70570a-3414-4d7f-b98f-1fa1c1124994" width="64px">
 </div>
+
+-----
 
