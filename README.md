@@ -2,6 +2,7 @@
 
 <p align="center">Hai! I am a passionate and curious software developer who explores everything he is interested in!</p><br>
 <p align="center">I really enjoy working with Linux! After dealing with Windows for years, Linux was a refreshment for me, a way to gain more freedom over my OS and learn more about how computers work under the hood.</p>
+<a align="center" href="https://sillyastrid.netlify.app/">My website</a>
 
 ### <p align="center">[>::<]</p>
 
