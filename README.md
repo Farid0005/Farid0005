@@ -4,7 +4,7 @@
 <p align="center">I really enjoy working with Linux! After dealing with Windows for years, Linux was a refreshment for me, a way to gain more freedom over my OS and learn more about how computers work under the hood.</p>
 
 <div align="center">
-  <a href="https://sillyastrid.netlify.app/">My website</a>
+  <a href="https://sillyastrid.netlify.app/" target="_blank">My website</a>
 </div>
 
 ### <p align="center">[>::<]</p>
