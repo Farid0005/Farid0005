@@ -30,6 +30,6 @@
 
 <div align="center">
   <p><b>Contact:</b></p>
-  <a href="https://discordapp.com/users/1297244719369420873">Discord</a>
+  <a href="https://discordapp.com/users/1306295632255909923">Discord</a>
 </div>
 
